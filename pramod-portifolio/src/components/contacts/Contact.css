@@ -1,0 +1,68 @@
+.contact {
+  background-color: #f9f9f9;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.contact h2 {
+  font-size: 2rem;
+  color: #2c5364;
+  margin-bottom: 30px;
+}
+
+.contact-box {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.contact-item {
+  margin-bottom: 15px;
+  font-size: 1.1rem;
+}
+
+.contact-item span {
+  margin-right: 10px;
+  font-size: 1.3rem;
+}
+
+.contact-item a {
+  text-decoration: none;
+  color: #00bcd4;
+  font-weight: 500;
+}
+
+.contact-item a:hover {
+  color: #203a43;
+}
+
+.contact-links {
+  margin: 25px 0;
+}
+
+.contact-links a {
+  margin: 0 15px;
+  font-size: 1.1rem;
+  color: #00bcd4;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.contact-links a:hover {
+  color: #203a43;
+}
+
+.download-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #00bcd4;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.3s ease;
+  font-weight: bold;
+}
+
+.download-btn:hover {
+  background-color: #0097a7;
+}
