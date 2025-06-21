@@ -1,12 +1,12 @@
 import React from 'react';
 import './Certifications.css';
 // import 'aos/dist/aos.css';
-import AOS from 'aos';
+// import AOS from 'aos';
 import { useEffect } from 'react';
 
 const Certifications = () => {
   useEffect(() => {
-    AOS.init({ duration: 1000 });
+    // AOS.init({ duration: 1000 });
   }, []);
 
   const certs = [

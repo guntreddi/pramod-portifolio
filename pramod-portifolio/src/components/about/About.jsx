@@ -1,13 +1,13 @@
 import React, { useEffect } from 'react';
 import './About.css';
-import AOS from 'aos';
+// import AOS from 'aos';
 // import 'aos/dist/aos.css';
 // import resumePDF from '../assets/resume.pdf';
 // import profileImg from '../assets/profile.jpg'; // Optional profile image
 
 const About = () => {
   useEffect(() => {
-    AOS.init({ duration: 1000 });
+    // AOS.init({ duration: 1000 });
   }, []);
 
   return (
