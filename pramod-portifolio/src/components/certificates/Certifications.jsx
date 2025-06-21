@@ -1,6 +1,6 @@
 import React from 'react';
 import './Certifications.css';
-import 'aos/dist/aos.css';
+// import 'aos/dist/aos.css';
 import AOS from 'aos';
 import { useEffect } from 'react';
 

@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import './Contact.css';
 import AOS from 'aos';
-import 'aos/dist/aos.css';
+// import 'aos/dist/aos.css';
 // import resumePDF from '../assets/resume.pdf'; // Add your resume here
 
 const Contact = () => {
