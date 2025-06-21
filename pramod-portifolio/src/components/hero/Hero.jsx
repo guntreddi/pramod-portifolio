@@ -1,13 +1,15 @@
 import React, { useEffect } from 'react';
 import './Hero.css';
-import AOS from 'aos';
 import 'aos/dist/aos.css';
+import AOS from 'aos';
+
 // import resumePDF from '../assets/resume.pdf'; // Ensure resume is placed in assets
 
 const Hero = () => {
   useEffect(() => {
-    AOS.init({ duration: 1000 });
-  }, []);
+  AOS.init({ duration: 1000 });
+}, []);
+
 
   return (
     <section className="hero" id="home">
